@@ -1,3 +1,5 @@
+www.weboutofthebox.com
+
 Web out of the box jquery rotate Plugin
 
 wootb.rotate.js is a plugin that applies a degree or radian to a element and rotate it
