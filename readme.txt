@@ -1,4 +1,5 @@
 www.weboutofthebox.com
+English version : http://www.weboutofthebox.com/en-GB/Main
 
 Web out of the box jquery rotate Plugin
 
